@@ -28,13 +28,17 @@ I'm **Abhijit Kad**, a developer who learns by building. My repos cover **full-s
 
 ---
 
-## 🖥️ My portfolio
+## 🎩 Press the button. I dare you.
 
 <div align="center">
 
-[![Open abhijit-kad.dev](https://image.thum.io/get/width/1200/crop/700/https://abhijit-kad.dev)](https://abhijit-kad.dev)
+[![Teaser](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=F78166&center=true&vCenter=true&width=620&height=36&lines=%E2%9A%A0%EF%B8%8F+Warning%3A+this+button+is+highly+addictive;Recruiters+who+clicked+it+said+%22wow%22+%F0%9F%A4%AF;99%25+of+visitors+can%27t+resist+clicking;Still+reading%3F+Go+on%2C+click+it+%F0%9F%91%87)](https://abhijit-kad.dev)
 
-**👆 Click to explore the live site → [abhijit-kad.dev](https://abhijit-kad.dev)**
+<a href="https://abhijit-kad.dev">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,6,20&height=90&section=header&text=%E2%9C%A8%20DO%20NOT%20CLICK%20%E2%9C%A8&fontSize=34&fontColor=ffffff&animation=blinking&fontAlignY=50" alt="Do not click this button" width="440" />
+</a>
+
+<sub>🔮 Seriously though, it opens my portfolio: <a href="https://abhijit-kad.dev">abhijit-kad.dev</a></sub>
 
 </div>
 
@@ -141,12 +145,12 @@ So if my graph looks quiet, it doesn't mean I'm not building. I'd love to talk a
 
 <div align="center">
 
-> *"The best way to predict the future is to invent it."*
-> **Alan Kay**
+> *"Talk is cheap. Show me the code."*
+> **Linus Torvalds**
 
 </div>
 
-That idea is why I build, in software and in hardware.
+That's the standard I hold myself to, in software and in hardware: build it, ship it, show it.
 
 ---
 
